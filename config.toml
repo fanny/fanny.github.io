@@ -1,4 +1,5 @@
 baseURL = "fanny-vieira.github.io"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Fanny's Portfolio"
 theme = "sam"
