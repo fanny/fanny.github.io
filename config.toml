@@ -1,0 +1,16 @@
+baseURL = "fanny-vieira.github.io"
+languageCode = "en-us"
+title = "Fanny's Portfolio"
+theme = "sam"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "call me fanny"
+
+[[params.mainMenu]]
+    link = "/music"
+    text = "sounds good"
+
+[[params.mainMenu]]
+    link = "/gallery"
+    text = "random save pictures"
