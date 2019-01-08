@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on Fanny&#39;s Portfolio</title>
+    <link>https://fannyvieira.github.io/portfolio/gallery/</link>
+    <description>Recent content in Gallery on Fanny&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jan 2019 01:24:13 -0200</lastBuildDate>
+    
+	<atom:link href="https://fannyvieira.github.io/portfolio/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
