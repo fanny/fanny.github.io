@@ -4,6 +4,10 @@ date: 2019-01-07T21:45:58-02:00
 url: "/music"
 ---
 
+> I love music, if you want to know me better, I've separated some of my favorite playlists, enjoy the sound! :D
+
+
+
 <div style="display: grid; grid-template-columns: auto auto;
             grid-row-gap: 3%; grid-column-gap: 3%;">
 
