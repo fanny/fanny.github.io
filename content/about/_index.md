@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-01-17T20:03:50-02:00
-draft: true
+url: "/about"
 ---
 Hi, you! My name is fanny, but many people call me fUnny haha, as you may have noticed I love music, sometimes I even risk singing, and playing some instruments like guitar, guitar and ukulele.
 
