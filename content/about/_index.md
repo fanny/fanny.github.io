@@ -5,7 +5,7 @@ url: "/about"
 ---
 Hi, you! My name is fanny, but many people call me fUnny haha, as you may have noticed I love music, sometimes I even risk singing, and playing some instruments like guitar, guitar and ukulele.
 
-Besides loving music and photography, my other passion, I love the feeling of power that computing gives me, which allows me to use it to help people around me, whether with a simple script or with a complex web project, it's very fascinating and challenging and that's what keeps me motivated. My main areas of expertise are data science and web development.
+Besides loving music, computing is my other passion, I love the feeling of power that computing gives me, which allows me to use it to help people around me, whether with a simple script or with a complex web project, it's very fascinating and challenging and that's what keeps me motivated. My main areas of expertise are data science and web development.
 
 [github](https://github.com/fannyvieira) [twitter](https://twitter.com/fannyvieiira) [email](mailto:fanny.vieira@ccc.ufcg.edu.br) [medium](https://medium.com/@fannyvieira)
 
