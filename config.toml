@@ -5,13 +5,13 @@ title = "Fanny's Portfolio"
 theme = "sam"
 
 [[params.mainMenu]]
-    link = "https://fannyvieira.github.io/about/"
+    link = "https://fannyvieira.github.io/portfolio/about/"
     text = "call me funny"
 
 [[params.mainMenu]]
-    link = "https://fannyvieira.github.io/music/"
+    link = "https://fannyvieira.github.io/portfolio/music/"
     text = "sounds good"
 
 [[params.mainMenu]]
-    link = "https://fannyvieira.github.io/gallery"
+    link = "https://fannyvieira.github.io/portfolio/gallery"
     text = "random save pictures"
