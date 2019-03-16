@@ -66,7 +66,7 @@ Development of the administrative and statistical module of the access control o
 - Publication of an article called “You’re the best boy in this group” with the IFPB team at 10º WIT - Women in Information Technology, a congress of the Brazilian Computer Society(SBC), 2016.
 
 
-## Technical Skills and programming languages
+## Technical Skills and Programming Languages
 
 **Python, Java, JavaScript, HTML, CSS, React, Vue, Pandas, C, C++;**
 
