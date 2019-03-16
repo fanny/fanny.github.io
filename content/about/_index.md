@@ -14,12 +14,12 @@ Besides loving music, computing is my other passion, I love the feeling of power
 
 - Undergraduate student in Computer Science
 
-Federal University of Campina Grande  
-(Expected) Jun 2021  
+Federal University of Campina Grande(UFCG) 
+(Expected) Jun 2021 
 
 - Computer Technician
 
-Federal Institute of Education, Science and Technology of Paraíba(IFPB) 
+Federal Institute of Education, Science and Technology of Paraíba(IFPB)
 July 2014 - Apr 2017
 
 
@@ -28,25 +28,31 @@ July 2014 - Apr 2017
 
 * Software Developer
 
-Analytics Laboratory  
-Oct 2017 - Current
+OpenDevUFCG Organization
+November 2018 - Current
+
+Co-founder of [OpenDevUFCG organization](https://github.com/OpenDevUFCG), a community with the objective of the encourage open source culture on computer science course at UFCG.
+
+
+Analytics Laboratory 
+Oct 2017 - March 2019
 
 Developed a crawler responsible for access the transparency portals and verifying if governmental data from Brazil states are easily accessible, using breadth-first and depth-first search algorithms to manage the flow of access to the sites.
 
 
 * Teacher’s Assistant
 
-Federal Institute of Education, Science and Technology of Paraíba  
+Federal Institute of Education, Science and Technology of Paraíba 
 Sept 2015 - Apr 2017
 
-Teacher’s assistant of development web class using html/css and javascript languages;  
-Monitored and developed extracurricular activities with the goal of improving student performance and learning. 
+Teacher’s assistant of development web class using html/css and javascript languages; 
+Monitored and developed extracurricular activities with the goal of improving student performance and learning.
 
 
-* Software Developer              
+* Software Developer             
 
-Federal Institute of Education, Science and Technology of Paraíba                  
-Jan 2015 - May 2017 
+Federal Institute of Education, Science and Technology of Paraíba                 
+Jan 2015 - May 2017
 
 Development of the administrative and statistical module of the access control of the students in the IFPB restaurant in Campina Grande through the NutrIF project. For the development of the system was used the framework AngularJs, made in Javascript, besides the html / css applying materializecss for stylization.
 
@@ -60,8 +66,8 @@ Development of the administrative and statistical module of the access control o
 - Publication of an article called “You’re the best boy in this group” with the IFPB team at 10º WIT - Women in Information Technology, a congress of the Brazilian Computer Society(SBC), 2016.
 
 
-## Technical Skills
-- Most experienced with: **Python, Java, JavaScript, HTML, CSS;**
+## Technical Skills and programming languages
+- Most experienced with: **Python, Java, JavaScript, HTML, CSS, React, Vue, Pandas;**
 - Familiar with: C, C++.
 
 
@@ -71,9 +77,11 @@ Development of the administrative and statistical module of the access control o
 
 ## Main projects
 
-* [who's following me](https://github.com/FannyVieira/whosfollowingme.git) - A Chrome extension that allows you to view if other GitHub users follow you. 
+* [who's following me](https://github.com/FannyVieira/whosfollowingme.git) - A Chrome extension that allows you to view if other GitHub users follow you.
 * [add-gitignore](https://github.com/FannyVieira/add-gitignore.git) - An interactive CLI tool that adds a .gitignore to your projects.
 * [ccc-pharma-server](https://github.com/SpinnelSun/CCCPharmaServer.git) - A stock management system for pharmacies.
+
+
 
 
 
