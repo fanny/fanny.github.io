@@ -28,13 +28,14 @@ July 2014 - Apr 2017
 
 * Software Developer
 
-OpenDevUFCG Organization
+OpenDevUFCG Organization  
 November 2018 - Current
 
 Co-founder of [OpenDevUFCG organization](https://github.com/OpenDevUFCG), a community with the objective of the encourage open source culture on computer science course at UFCG.
 
+* Software Developer
 
-Analytics Laboratory 
+Analytics Laboratory  
 Oct 2017 - March 2019
 
 Developed a crawler responsible for access the transparency portals and verifying if governmental data from Brazil states are easily accessible, using breadth-first and depth-first search algorithms to manage the flow of access to the sites.
@@ -42,14 +43,14 @@ Developed a crawler responsible for access the transparency portals and verifyin
 
 * Teacher’s Assistant
 
-Federal Institute of Education, Science and Technology of Paraíba 
+Federal Institute of Education, Science and Technology of Paraíba  
 Sept 2015 - Apr 2017
 
 Teacher’s assistant of development web class using html/css and javascript languages; 
 Monitored and developed extracurricular activities with the goal of improving student performance and learning.
 
 
-* Software Developer             
+* Software Developer
 
 Federal Institute of Education, Science and Technology of Paraíba                 
 Jan 2015 - May 2017
@@ -62,13 +63,13 @@ Development of the administrative and statistical module of the access control o
 - **Silver** medal in Paraíba State Olympiad in Informatics, 2018.
 - Honorable mention in Paraiba State Olympiad in Informatics, 2017.
 - 25º place at Desafio de Aplicativos Cívicos, a national competition for create new communication channels between society and the State, provide and improve public services.
-- Honorable mention in Paraiba State Olympiad in Informatics, 2017.
 - Publication of an article called “You’re the best boy in this group” with the IFPB team at 10º WIT - Women in Information Technology, a congress of the Brazilian Computer Society(SBC), 2016.
 
 
 ## Technical Skills and programming languages
-- Most experienced with: **Python, Java, JavaScript, HTML, CSS, React, Vue, Pandas;**
-- Familiar with: C, C++.
+
+**Python, Java, JavaScript, HTML, CSS, React, Vue, Pandas, C, C++;**
+
 
 
 ## Language skills
