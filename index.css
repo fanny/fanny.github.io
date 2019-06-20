@@ -29,6 +29,21 @@ a {
     padding-top: 3%;
 }
 
+#box {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box > span {
+    color: white;
+    font-weight: bolder;
+    font-size: 1.15em;
+}
+
 img {
     width: 30px;
     height: 30px;
