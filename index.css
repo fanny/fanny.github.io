@@ -1,0 +1,35 @@
+html, body, main {
+    font-family: 'Slabo 27px', serif;
+    margin: 0;
+    height: 100%;
+    padding-right: 1%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 5%;
+}
+
+span {
+    justify-self: left;
+    padding-top: 0.05%;
+    font-size: 0.75em;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+a {
+    padding-top: 3%;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
