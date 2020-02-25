@@ -1,16 +1,22 @@
 html, body, main {
+    display: flex;
     font-family: 'Slabo 27px', serif;
     margin: 0;
     height: 100%;
-    padding-right: 1%;
+    width: 100% ;
 }
 
-main {
+section {
     display: flex;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
-    align-items: flex-start;
-    padding-left: 5%;
+    width: 40%;
+    background-color: #ecdfc8;   
+}
+
+figcaption {
+  font-weight: bolder;
 }
 
 span {
@@ -22,29 +28,23 @@ span {
 nav {
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
 }
 
-a {
-    padding-top: 3%;
-}
-
-#box {
-    background-color: black;
-    width: 30px;
-    height: 30px;
+main {
     display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#box > span {
-    color: white;
-    font-weight: bolder;
-    font-size: 1.15em;
+    flex-direction: column;
+    margin: 3vh;
 }
 
 img {
+  border-radius: 50%;
+  width: 35%;
+  height: 15%;
+}
+
+a > img {
     width: 30px;
     height: 30px;
 }
