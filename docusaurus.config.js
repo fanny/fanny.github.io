@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Fanny Vieira',
   tagline: 'Colector of interesting links, OSS contributor, software developer, and music lover.',
-  url: 'https://fanny.github.io',
+  url: 'https://fanny.github.io/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'fanny',
