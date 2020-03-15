@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <Layout
       title={siteConfig.title}
-    }>
+    >
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <img
