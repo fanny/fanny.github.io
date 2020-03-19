@@ -17,6 +17,7 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'docs/bucket-list', label: 'Bucket List', position: 'left'},
         {
           href: 'https://github.com/fanny',
           label: 'GitHub',
