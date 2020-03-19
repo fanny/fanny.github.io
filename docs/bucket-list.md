@@ -13,3 +13,5 @@ title: "Bucket List"
 - To know better other topics beyond computer science like: Politics, Culinary, Art 
 - Talk with Dan Abramov
 - Write a state management from scratch
+- Improve my english level
+- Work definitely at Facebook
