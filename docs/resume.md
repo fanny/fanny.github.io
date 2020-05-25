@@ -29,7 +29,12 @@ Computer Technician
 ### Enterprise Engineer Intern, Facebook
 *Jan 2020 - Current*
 
-Worked developing web apps to enterprise support tech team and builting bots to automaze some of his tasks.
+Built the project "Hacking the Hub: Matching help offers to requests" that earned the COVID-19 Global hackathon. On the Hackathon, I built all the front-end components, needed to reshare the help request in local groups, and showed the suggested matches offers based on the users requests providing a direct line with the requester and a volunteer using the messenger, I built using react and relay for the data requisitions.
+
+Built a Workplace Bot, a tool that is used to send relevant security information to employees that changed their working location to a location outside of their own. The bot automated a lot of manual work that was made by the Global Security Team. I implemented some webhooks in Hack to connect with the workplace API and a logger to avoid the message sent twice or more in Hack.
+
+Built a web app (end-to-end) in a internal platform to do a benchmarking with the FB Devices, using React, GraphQL with Relay for the front-end, and Hack for the Back-end.
+
 
 
 ### Software Engineer Intern, Software Practices Laboratory/VTEX Partneship
