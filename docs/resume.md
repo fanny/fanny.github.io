@@ -37,7 +37,7 @@ Built a web app (end-to-end) in a internal platform to do a benchmarking with th
 
 
 
-### Software Engineer Intern, Software Practices Laboratory/VTEX Partneship
+### Software Engineer Intern, Software Practices Laboratory/VTEX Partnership
 *Apr 2019 - Dec 2019*
 
 Maintaner of statistical module monitor to allow store owners to know better their store, thus perform better and sell more. This was built using ReactJs and GraphQL.
@@ -70,7 +70,13 @@ Development of the administrative and statistical module of the access control o
 
 ## Open Source Experience
 
-### Maintaner, OpenDevUFCG Organization  
+### Maintaner, Docusaurus - Facebook
+*November Feb 2020 - Current*
+
+I built a new theme based on Bootstrap.
+
+
+### Maintainer, OpenDevUFCG Organization  
 *November 2018 - Current*
 
 Co-founder of [OpenDevUFCG organization](https://github.com/OpenDevUFCG), a community with the objective of the encourage open source culture on computer science course at UFCG.
